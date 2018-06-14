@@ -7,6 +7,6 @@
 5. cd server
 6. node app.js
 
-//another terminal
+(another terminal)
 7. cd client
 8. npm start
